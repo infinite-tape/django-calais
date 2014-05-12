@@ -57,6 +57,12 @@ In addition, django-calais requires:
    * cjson Python library
 
 
+**Important Note**
+
+This project was recently migrated from its former home on
+[Google Code](https://code.google.com/p/django-calais/). The
+project is well debugged and documented, but is not actively maintained.
+
 Installation
 ============
 
