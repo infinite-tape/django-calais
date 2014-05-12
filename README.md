@@ -1,4 +1,3 @@
-
 django-calais: a semantic tool for Django
 =========================================
 
@@ -46,11 +45,10 @@ Document Categorization
 Downloads & Requirements
 ========================
 
-The most recent django-calais files are available from the Google Code
-repository: http://code.google.com/p/django-calais/ or a Subversion
-checkout:
+The most recent django-calais files are available from the Github 
+repository:
 
-   svn checkout http://django-calais.googlecode.com/svn/trunk/ djangocalais
+   git clone https://github.com/jesselegg/django-calais.git
 
 In addition, django-calais requires:
 
